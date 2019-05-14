@@ -1,0 +1,6 @@
+﻿  Max_Sum.cpp
+c:\users\ka\source\repos\max_sum\max_sum.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\max_sum\max_sum.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\max_sum\max_sum.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\max_sum\max_sum.cpp(20): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  Max_Sum.vcxproj -> C:\Users\Ka\source\repos\Debug\Max_Sum.exe
